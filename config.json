@@ -1,0 +1,9 @@
+{
+    "feeds": [
+        {
+            "name": "Hacker News",
+            "url": "https://hackernews.com/rss",
+            "category": "tech"
+        }
+    ]
+}
